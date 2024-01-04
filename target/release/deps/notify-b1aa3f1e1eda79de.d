@@ -1,0 +1,12 @@
+/home/robin/rustlings/target/release/deps/libnotify-b1aa3f1e1eda79de.rmeta: /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/lib.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/inotify.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/null.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/poll.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/mod.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/timer.rs
+
+/home/robin/rustlings/target/release/deps/libnotify-b1aa3f1e1eda79de.rlib: /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/lib.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/inotify.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/null.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/poll.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/mod.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/timer.rs
+
+/home/robin/rustlings/target/release/deps/notify-b1aa3f1e1eda79de.d: /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/lib.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/inotify.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/null.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/poll.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/mod.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/timer.rs
+
+/home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/lib.rs:
+/home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/inotify.rs:
+/home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/null.rs:
+/home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/poll.rs:
+/home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/mod.rs:
+/home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/notify-4.0.17/src/debounce/timer.rs:

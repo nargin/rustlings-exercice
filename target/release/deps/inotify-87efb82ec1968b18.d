@@ -1,0 +1,12 @@
+/home/robin/rustlings/target/release/deps/libinotify-87efb82ec1968b18.rmeta: /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/lib.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/events.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/fd_guard.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/inotify.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/util.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/watches.rs
+
+/home/robin/rustlings/target/release/deps/libinotify-87efb82ec1968b18.rlib: /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/lib.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/events.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/fd_guard.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/inotify.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/util.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/watches.rs
+
+/home/robin/rustlings/target/release/deps/inotify-87efb82ec1968b18.d: /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/lib.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/events.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/fd_guard.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/inotify.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/util.rs /home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/watches.rs
+
+/home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/lib.rs:
+/home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/events.rs:
+/home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/fd_guard.rs:
+/home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/inotify.rs:
+/home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/util.rs:
+/home/robin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.7.1/src/watches.rs:
